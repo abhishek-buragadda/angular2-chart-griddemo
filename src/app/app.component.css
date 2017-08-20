@@ -1,0 +1,14 @@
+.component-container{
+  display: flex;
+
+}
+
+
+.grid-container{
+  display: flex;
+  margin: 10px;
+}
+.chart-container{
+  display: flex;
+  margin: 10px;
+}
